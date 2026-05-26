@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Virtual Environment
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Project data (auto-generated at runtime)
+chroma_db/
+我的文件/
+temp_uploads/
+
+# Environment & secrets
+.env
+*.env.local
+
+# Pip cache
+pip_cache/
